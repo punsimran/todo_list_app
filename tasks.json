@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "journal",
+    "description": "have journal for 1 hr about today tasks and achivement",
+    "priority": "medium",
+    "due_date": "2026-05-23",
+    "completed": false,
+    "created_date": "2026-05-22"
+  },
+  {
+    "id": "2",
+    "title": "hydration",
+    "description": "drink 2ltr of water minimum. ",
+    "priority": "high",
+    "due_date": "2026-05-22",
+    "completed": false,
+    "created_date": "2026-05-22"
+  },
+  {
+    "id": "3",
+    "title": "go for walk",
+    "description": "after office, have to go on walk w my sister and have some convo.",
+    "priority": "medium",
+    "due_date": "2026-05-22",
+    "completed": false,
+    "created_date": "2026-05-22"
+  }
+]
